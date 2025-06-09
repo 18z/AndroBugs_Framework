@@ -4,6 +4,7 @@ import sys
 from ConfigParser import SafeConfigParser
 import platform
 import os
+import traceback
 
 ANALYZE_MODE_SINGLE = "single"
 ANALYZE_MODE_MASSIVE = "massive"
