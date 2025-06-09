@@ -37,7 +37,7 @@ import sys
 
 	2.You need to install 'chilkat' component version in accordance with Python 2.7 first. This is for certificate checking.
 	  See the explanation of function 'def get_certificate(self, filename)' in 'apk.py' file
-	  => It becomes optional now. Since the related code is not comment out for ease of use and install.
+	  => It becomes optional now. Since the related code is not commented out for ease of use and install.
 
 	3.Use command 'grep -nFr "#Added by AndroBugs" *' to see what AndroBugs Framework has added to Androguard Open Source project under "tools/modified/androguard" root directory.
 
